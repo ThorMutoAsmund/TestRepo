@@ -1,2 +1,8 @@
-DELTRE AGIN
-AND A NOTHER LINE
+This is file 1
+CHange
+Change again
+Last change
+Merge conflict line
+Master change
+
+HERE IS THE RIGHT CHANGE
