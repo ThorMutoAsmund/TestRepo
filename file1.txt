@@ -3,3 +3,8 @@ function GoodFunc()
 	println("Hejsa!");
 	return true;
 }
+
+function MyFunc()
+{
+	GreatStuff();
+}
