@@ -1,21 +1,5 @@
-This is file 1
-CHange
-Change again
-Last change
-Merge conflict line
-Master change 2
-MASTER STUFF 
-HERE IS THE RIGHT CHANGE
-
-
-BRANCH LINE
-
-LINE 2
-
-STUFF
-
-CREAED LINE
-
-MORE
-
-TEST
+function GoodFunc()
+{
+	println("Hejsa!");
+	return true;
+}
