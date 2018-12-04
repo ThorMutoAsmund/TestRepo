@@ -1,6 +1,14 @@
 function GoodFunc()
 {
-	println("Hejsa!");
-	AddedLine();
+	println("Hejsa!"); // What is this?
 	return true;
+}
+
+function MyFunc()
+{
+	GreatStuff();
+}
+
+functio MoreStuff()
+{
 }
