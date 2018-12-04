@@ -12,3 +12,7 @@ function MyFunc()
 functio MoreStuff()
 {
 }
+
+function ForgotThis()
+{
+}
