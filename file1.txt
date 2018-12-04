@@ -6,3 +6,6 @@ Merge conflict line
 Master change
 
 HERE IS THE RIGHT CHANGE
+
+
+BRANCH LINE
