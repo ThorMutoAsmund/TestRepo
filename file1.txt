@@ -8,3 +8,7 @@ function MyFunc()
 {
 	GreatStuff();
 }
+
+functio MoreStuff()
+{
+}
