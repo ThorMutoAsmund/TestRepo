@@ -1,6 +1,7 @@
 function GoodFunc()
 {
-	println("Hejsa!"); // What is this?
+	println("Hejsa!");
+	AddedLine();
 	return true;
 }
 
