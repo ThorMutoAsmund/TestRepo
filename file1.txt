@@ -1,5 +1,6 @@
 function GoodFunc()
 {
 	println("Hejsa!");
+	AddedLine();
 	return true;
 }
