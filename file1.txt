@@ -3,8 +3,8 @@ CHange
 Change again
 Last change
 Merge conflict line
-Master change
-MASTER STUFF
+Master change 2
+MASTER STUFF 
 HERE IS THE RIGHT CHANGE
 
 
