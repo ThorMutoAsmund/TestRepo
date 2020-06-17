@@ -1,19 +1,5 @@
-function GoodFunc()
-{
-	println("Hejsa!");
-	AddedLine();
-	return true;
-}
-
-function MyFunc()
-{
-	GreatStuff();
-}
-
-functio MoreStuff()
-{
-}
-
-function ForgotThis()
-{
-}
+wfjiwo fjwf
+wefl
+pwokefoåwje fwe
+f 
+wefj¨'woefjwej
