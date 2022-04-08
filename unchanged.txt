@@ -1,3 +1,4 @@
 This file willbe ignored later
 Test
 Tet2
+Config=A
