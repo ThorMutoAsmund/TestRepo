@@ -1,9 +1,13 @@
+// Comments are important  really
+
 Fixing things
 This looks good
 
+Ny linje her
 Fin pæn tekst
 Fin pæn tekst
 Fin pæn tekst
+Tilføjet mere tekst her
 Fin pæn tekst
 
 MEGET BEDRE PREBEN
@@ -11,4 +15,6 @@ MEGET BEDRE PREBEN
 Test1
 
 Added new feature
-Added another feature
+Added another feature again!
+
+Adding new func
