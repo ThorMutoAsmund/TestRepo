@@ -7,3 +7,6 @@ Fin pæn tekst
 MEGET BEDRE KURT
 
 Test1
+
+Added new feature
+Added another feature
