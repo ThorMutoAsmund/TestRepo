@@ -1,4 +1,4 @@
-// Comments are important
+// Comments are important  really
 
 Fixing things
 This looks good
@@ -16,3 +16,5 @@ Test1
 
 Added new feature
 Added another feature again!
+
+Adding new func
