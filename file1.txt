@@ -1,9 +1,12 @@
+// Comments are important
+
 Fixing things
 This looks good
 
 Fin pæn tekst
 Fin pæn tekst
 Fin pæn tekst
+Tilføjet mere tekst her
 Fin pæn tekst
 
 MEGET BEDRE KURT
@@ -11,4 +14,4 @@ MEGET BEDRE KURT
 Test1
 
 Added new feature
-Added another feature
+Added another feature again!
